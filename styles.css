@@ -186,3 +186,12 @@ body {
   border-style: solid;
   border-color: #F9FAF8;
 }
+
+.footer {
+  height: 70px;
+  background-color: #1F2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #F9FAF8;
+}
