@@ -70,4 +70,40 @@ body {
 .image1 {
   height: 220px;
   width: 450px; 
+}  
+
+.section2 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+
+.section2-container1 {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1F2937;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.section2-container2 {
+  display: flex;
+  justify-content: center;
+  margin: 50px 300px 100px 340px; 
+  padding: 0;
+  border: 0;
+}
+
+.section2-container2a {
+  width: 200px;
+  height: 200px;
+  margin-right: 35px;
+}
+
+.image2 {
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
 }
